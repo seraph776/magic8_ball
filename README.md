@@ -28,7 +28,7 @@ This project was built with:
 coming soon...
 
 ## Instructions
-1. Download zip file.
+1. Download [zip file](https://github.com/seraph776/magic8_ball/archive/refs/heads/main.zip).
 2. Extract zip file.
 3. Run `main.py` from the extracted zip file location.
 4. When the program loads, enter your name.
