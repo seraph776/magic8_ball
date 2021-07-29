@@ -36,7 +36,9 @@ coming soon...
 6. The Magic 8-ball will then give you a response.
 7. Press `'q'` to quit.    
  
-- Note: The file `magic8_ball.py` contains the functions for `main.py` 
+Note: 
+- File `magic8_ball.py` contains the functions for `main.py`
+- File `color.py` contains the color class for the colored response
 
 ## Contribution
 This is an open source project. Feedback, Questions and Pull requests are welcome. For major changes, 
