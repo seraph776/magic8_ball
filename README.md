@@ -15,7 +15,7 @@ There are 20 possible answers:
 
 - 5  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Negative-red" /></a> answers which will display in <u>red</u>.
 
-**For more info:** [Wiki](https://en.wikipedia.org/wiki/Magic_8-Ball)
+For more info: [Wiki](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
 ## Technology Framework
 This project was built with:
