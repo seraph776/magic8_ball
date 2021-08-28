@@ -25,7 +25,7 @@ This project was built with:
 - `Python 3.0 +` 
 
 ## Screenshots amd demo
-coming soon...
+[![Run on Repl.it](https://repl.it/badge/github/seraph776/magic8_ball)](https://repl.it/github/seraph776/magic8_ball)
 
 ## Installation
 1. Download [zip file](https://github.com/seraph776/magic8_ball/archive/refs/heads/main.zip).
