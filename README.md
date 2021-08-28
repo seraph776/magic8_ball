@@ -19,22 +19,36 @@ For more info: [Wiki](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
 ## Technology Framework
 This project was built with:
-- Python 3.9.6
+- `Python 3.9.6`
 
 ## Requirements
-- Python 3.0 or above
+- `Python 3.0 +` 
 
 ## Screenshots amd demo
 coming soon...
 
-## Instructions
+## Installation
 1. Download [zip file](https://github.com/seraph776/magic8_ball/archive/refs/heads/main.zip).
-2. Extract zip file.
-3. Run `main.py` from the extracted zip file location.
-4. When the program loads, enter your name.
-5. Then input a `yes/no` question.
-6. The Magic 8-ball will then give you a response.
-7. Press `'q'` to quit.    
+2. Extract zip files
+3. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html) from within the extracted zip file location:
+```
+python -m venv project-env
+```
+4. Activate virtual environment:
+```
+project-env\Scripts\Activate.bat
+```
+5. Run `main.py` from within virtual environment:
+```
+python main.py
+```
+
+## Instructions
+
+1. When the program loads, enter your name.
+2. Then input a `yes/no` question.
+3. The Magic 8-ball will then give you a response.
+4. Press `'q'` to quit.    
  
 Note: 
 - File `magic8_ball.py` contains the functions for `main.py`
