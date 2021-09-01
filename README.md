@@ -17,15 +17,19 @@ There are 20 possible answers:
 
 For more info: [Wiki](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
+
 ## Technology Framework
-This project was built with:
-- `Python 3.9.6`
+Built with:
+
+![made-with-python](https://img.shields.io/badge/Python-3.9.6-blue?logo=python)
+
 
 ## Requirements
-- `Python 3.0 +` 
+![made-with-python](https://img.shields.io/badge/Python-3.0+-blue?logo=python)
 
-## Screenshots amd demo
-[![Run on Repl.it](https://repl.it/badge/github/seraph776/magic8_ball)](https://repl.it/github/seraph776/magic8_ball)
+
+## Screenshot and demo
+[![Run on Repl.it](https://img.shields.io/badge/Replit-Demo-blue?logo=replit)](https://repl.it/github/seraph776/magic8_ball)
 
 ## Installation
 1. Download [zip file](https://github.com/seraph776/magic8_ball/archive/refs/heads/main.zip).
